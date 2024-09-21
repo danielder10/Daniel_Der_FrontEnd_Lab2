@@ -1,0 +1,34 @@
+.app {
+    text-align: center;
+    font-family: Arial, sans-serif;
+  }
+  
+  .artist-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+  }
+  
+  .artist-details {
+    margin: 20px;
+    padding: 15px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    width: 220px;
+    text-align: center;
+    background-color: #f9f9f9;
+  }
+  
+  .artist-details img {
+    border-radius: 5px;
+  }
+  
+  .artist-details h2 {
+    font-size: 20px;
+    margin-bottom: 10px;
+  }
+  
+  .artist-details p {
+    margin: 5px 0;
+  }
+  
